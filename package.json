@@ -1,0 +1,20 @@
+{
+  "name": "simple-http-proxy",
+  "version": "1.0.0",
+  "description": "Simple HTTP/HTTPS reverse proxy",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "proxy",
+    "http",
+    "https",
+    "reverse-proxy"
+  ],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}
